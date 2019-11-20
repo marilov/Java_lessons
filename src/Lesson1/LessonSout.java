@@ -1,6 +1,6 @@
-package com.company;
+package Lesson1;
 
-public class LessonSOP {
+public class LessonSout {
 
     public void rubai() {
         System.out.println("          РУБАИ");
