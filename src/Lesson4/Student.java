@@ -23,6 +23,7 @@ class StudentTest {
         Student1.mathMark = 10.2;
         Student1.economyMark = 10.2;
         Student1.langMark = 10.2;
+
         Student1.avgMark = (Student1.mathMark + Student1.economyMark + Student1.langMark) / 3;
 
         Student Student2 = new Student();
